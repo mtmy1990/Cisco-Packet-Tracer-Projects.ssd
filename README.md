@@ -4,7 +4,7 @@ Network Designs by Cisco packet Tracer
 # Project Overview 
 this cisco packet tracer project demonstrates:
 - VLAN CONFIGURATION
-- INTER-VLAN TOUTING
+- INTER-VLAN ROUTING
 - ACCESS CONTROL LIST
 
 ## tools used
